@@ -2,6 +2,8 @@
 
 Welcome to the Pizza Sales SQL project! This repository hosts an end-to-end SQL project focused on analyzing pizza sales data. The project encompasses database creation, data querying, and deriving actionable insights from the dataset.
 
+https://github.com/RajashreeGavali/Pizza-Sales-SQL-Project/blob/main/PizzaSalesSQLProjectPresentation.pdf 
+
 ## About the Dataset
 The data source is obtained from Kaggle.
 The data is divided into 4 tables:
